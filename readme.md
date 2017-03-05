@@ -1,9 +1,10 @@
-Darkwave Blog Pattern
+## Darkwave Blog Pattern
+### Server Controllers (Lexxi) - v0.0.1 (MIT)
 
-Server Controllers (Lexxi)
+Darkwave documentation: [http://darkwave.hexgirlfriend.com](http://darkwave.hexgirlfriend.com)
 
-0.0.1
+-------
 
-(MIT)
+### Installation
 
-Darkwave documentation: http://darkwave.hexgirlfriend.com
+1\. [tbd]
